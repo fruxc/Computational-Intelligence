@@ -1,1 +1,1 @@
-# Prolog
+# Computational Intelligence
